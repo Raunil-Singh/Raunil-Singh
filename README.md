@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Raunil, a computer science student at NITK. You can find all my works over here.
 
 <!--
 **Raunil-Singh/Raunil-Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
